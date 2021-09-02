@@ -1,0 +1,5 @@
+*.user
+x64
+engine/ressources
+engine/x64
+.vs
